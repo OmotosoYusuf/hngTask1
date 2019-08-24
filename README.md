@@ -1,2 +1,9 @@
 # hngTask1
-HTML task for the HNG6.0 pre-internship
+HTML task for the HNG6.0 pre-internship 
+
+Creating a copy of my CV using HTML only.
+author: Omotoso Yusuf
+first date of creation/uploading 24th of August, 2019.
+
+Link to flutterwave twitter post: https://twitter.com/OmotosoYusuf/status/1164920726975057920
+
