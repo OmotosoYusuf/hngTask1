@@ -16,6 +16,9 @@ body{
     display: grid;
     justify-items: start;
 }
+img{
+    padding-top: 50px;
+}
 h1, h3{
     border-bottom: solid 3px blue;
 }
