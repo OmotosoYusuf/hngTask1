@@ -7,4 +7,8 @@ first date of creation/uploading 24th of August, 2019.
 
 Link to flutterwave twitter post: https://twitter.com/OmotosoYusuf/status/1164920726975057920
 
-Link to Lucid post: https://lucid.blog/omotosoyuusuf/post/1566623377
+Link to Lucid post 1: https://lucid.blog/omotosoyuusuf/post/1566623377
+
+Link to Lucid post about CSS: 
+
+https://lucid.blog/omotosoyuusuf/post/hng60-pre-internship-my-journey-so-far-2-ca4
