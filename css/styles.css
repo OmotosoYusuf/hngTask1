@@ -2,11 +2,16 @@
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5;
     max-width: 100%;
-    padding: auto;
+    padding: auto;  
 }
 body{
     display: grid;
     grid-template-columns: 1fr 1fr;
+    background: linear-gradient(90deg, rgb(10, 10, 83), rgb(23, 23, 116), rgb(73, 114, 131));
+    color: white;
+    font-weight: bold;
+    margin: 0 auto;
+    padding: 30px;
 }
 .bio{
     display: grid;
@@ -33,10 +38,46 @@ br{
 .circle{
     padding: 10px;
     margin: 8px;        
-    border: 3px solid blue;
+    border: 3px solid rgb(231, 231, 236);
+    color: white;
     border-radius: 50%;
 }
 .progress{
-    color: rgb(6, 71, 6);
+    color: whitesmoke;
     font-weight: bold;
+}
+#hire{
+    width: 100px;
+    height: 50px;
+    border-radius: 37%;
+    background: blue;
+    color: whitesmoke;
+    font-size: 1em;
+    font-weight: bolder;
+}
+#contactForm, input, textarea {
+    display: flex;
+    justify-content: space-evenly;            
+}
+label, textarea{
+    display: block;
+    padding: 15px;
+}
+input[type='submit']{
+    width: 150px;
+    margin-top: 15px;
+    position: relative;
+    left: 25%;
+}
+input[type='reset']{
+    width: 150px;
+    margin-top: 15px;
+    position: relative;
+    left: 25%;
+}
+div#contactForm.hidden{
+    display: none;
+}
+#contactForm{
+    margin-left: 20%;
 }
